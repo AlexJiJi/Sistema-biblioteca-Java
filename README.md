@@ -37,5 +37,5 @@ The project is composed of classes that represent the main elements of the syste
 - Usuario
 - Publicación
 - Préstamo
-- Alumno de Servicio <br>
-In addition, it includes a Main class that contains the menu implementation and the execution of the system.
+- Alumno de Servicio
+##### In addition, it includes a Main class that contains the menu implementation and the execution of the system.
